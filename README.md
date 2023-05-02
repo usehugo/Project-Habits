@@ -16,7 +16,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 </p>
 <br>
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
 </p>
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -24,9 +24,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
+
 ## 💻 Projeto
 
 O Habits é um projeto para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online](https://usehugo.github.io/Project-Habits/)
 
 Esse projeto está sob a licença MIT.
 ---
